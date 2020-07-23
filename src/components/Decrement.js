@@ -14,6 +14,3 @@ const Decrement = ({ value, decrement }) => {
 };
 
 export default Decrement;
-
-// const [zero, setZero] = useState();
-// style = {{ color: counter === 0 ? "white" : "black" }}
