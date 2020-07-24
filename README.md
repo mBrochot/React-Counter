@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://objective-joliot-872c19.netlify.app/
+https://react-counter-v1.netlify.app/
 
 ## Available Scripts
 
